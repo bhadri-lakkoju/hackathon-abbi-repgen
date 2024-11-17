@@ -1,0 +1,10 @@
+langchain_openai
+langchain_community
+langchain
+pymysql
+chromadb
+sqlalchemy
+streamlit
+pyodbc
+pydantic
+azure-identity
